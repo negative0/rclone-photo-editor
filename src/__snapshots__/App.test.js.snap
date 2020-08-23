@@ -4,10 +4,8 @@ exports[`App renders should match snapshot 1`] = `
 <div
   data-test="appComponent"
 >
-  <img
-    alt="rclone"
-    src="logo_symbol.png"
-  />
-  Welcome to your first rclone webui plugin.
+  <p>
+    Loading
+  </p>
 </div>
 `;
