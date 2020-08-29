@@ -2,7 +2,7 @@ import {shallow} from "enzyme";
 import React from "react";
 import toJson from "enzyme-to-json";
 import App from "./App";
-import {findByTestAttr} from "./utils";
+import {findByTestAttr} from "./Utils";
 
 
 const setUp = ( props = {}) => {
